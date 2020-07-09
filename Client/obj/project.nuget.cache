@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xvX1j2N+z123CH68CR8f+l3ae37vVCb2FL91ThtylUsVM7RCqu5NFkmujw28ZZN7KNnBxiekP4XT65B4nCgfcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hakan\\source\\repos\\Authentication\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hakan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
